@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+
+#title {
+	color: red;
+	text-align: center;
+}
+
+.panel-default {
+	border-top: none;
+	margin-left: 3%;
+}
+
+.tbTitle {
+	text-align: center;
+	color: red;
+}
+#navTitle{
+	margin-left: 9%;
+}
+.w3-btn {
+	background-color: white;
+	color: black;
+	display: block;
+}
+#footer{
+	margin-top: 5%;
+	margin-right: 5%;	
+}
